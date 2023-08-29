@@ -2,5 +2,5 @@
 ---
 layout: redirected
 permalink: /cv/
-redirect_to: https://your.pdf.location
+redirect_to: assets/pdf/CV-Negin Rahimi.pdf
 ---
