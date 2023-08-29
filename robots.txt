@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://neginrahimiyazdi.github.io/sitemap.xml
