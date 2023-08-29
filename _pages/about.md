@@ -18,7 +18,7 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-https://aut.ac.ir/en
+
 I'm currently a last-year undergraduate double major student in Computer Science and Mathematics at [Amirkabir University of Technology](https://aut.ac.ir/en).
 
 
