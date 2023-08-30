@@ -20,4 +20,4 @@ I'm currently a last-year undergraduate double major student in Computer Science
 My reaserch interset is in the filed of machine learning, optimization, game theory and graph theory.
 
 
-Here is my [CV](https://neginrahimiyazdi.github.io/assets/pdf/CV-Negin%20Rahimi.pdf)https://neginrahimiyazdi.github.io/assets/pdf/CV-Negin%20Rahimi.pdf.
+Here is my [CV](https://neginrahimiyazdi.github.io/assets/pdf/CV-Negin%20Rahimi.pdf){target="_blank"}.
