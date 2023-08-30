@@ -25,3 +25,5 @@ Professors receive appointment requests and can promptly admit or decline them t
 Meetwith enhances convenience by incorporating a barcode-based access system. Each professor is equipped with a unique barcode, conveniently placed on their office door. Students can easily locate professors by scanning their respective barcode, simplifying the process of finding their profile and appointment details.
 
 With Meetwith, academic scheduling becomes a seamless and efficient experience, benefiting both students and professors alike. Stay tuned for updates on my personal website, where I'll provide more details about this innovative project.
+
+For more details and to explore the code repository, please visit [GitHub Repository](https://github.com/neginrahimiyazdi/Django-based-Professor-Appointment-and-Scheduling-System).
