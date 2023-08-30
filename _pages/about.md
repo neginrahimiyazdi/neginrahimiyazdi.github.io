@@ -16,10 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm currently a last-year undergraduate double major student in Computer Science and Mathematics at [Amirkabir University of Technology](https://aut.ac.ir/en).
-My reaserch interset is in the filed of machine learning, optimization, game theory and graph theory.
+I am currently in my final year as an undergraduate double majoring in Computer Science and Mathematics at [Amirkabir University of Technology](https://aut.ac.ir/en).
+My research interests lie in the fields of machine learning, optimization, game theory, and graph theory. 
 
-
-Here is my <a href="https://neginrahimiyazdi.github.io/assets/pdf/CV-Negin%20Rahimi.pdf" target="_blank">CV</a>.
-
-
+For further details about my qualifications and experience, please refer to my  <a href="https://neginrahimiyazdi.github.io/assets/pdf/CV-Negin%20Rahimi.pdf" target="_blank">CV</a>.
