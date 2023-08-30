@@ -1,11 +1,18 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="refresh" content="0;url=/assets/pdf/CV-Negin Rahimi.pdf">
-    <title>Redirecting...</title>
+    <meta charset="UTF-8">
+    <title>Redirecting...</title>
 </head>
 <body>
-    <!-- Optional: You can add a message here that will be displayed before the redirect. -->
-    <p>If you are not redirected, <a href="/assets/pdf/CV-Negin Rahimi.pdf">click here</a>.</p>
+    <!-- Optional: You can add a message here that will be displayed before the redirect. -->
+    <p>If you are not redirected, <a href="/path/to/your/cv.pdf" target="_blank">click here</a> to open the PDF in a new tab.</p>
+
+    <script>
+        // Automatically redirect after a delay
+        setTimeout(function() {
+            window.location.href = '/path/to/your/cv.pdf';
+        }, 3000); // Redirect after 3 seconds
+    </script>
 </body>
 </html>
