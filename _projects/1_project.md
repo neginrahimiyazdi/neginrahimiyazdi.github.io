@@ -2,17 +2,12 @@
 layout: page
 title: Django-based Professor Appointment and Scheduling System with Barcode
 description: Designed and developed an innovative Django-based platform enabling students to efficiently access professor schedules, make reservations, and request appointments.
-img: /assets/img/project-django2.jpg
+img: /assets/img/project-django2.png
 importance: 1
 category: 
 related_publications: MeetWith 
 ---
----
-layout: page
-title: project
-description: a project with a background image
-img: /assets/img/12.jpg
----
+
 Meetwith is a web application meticulously crafted with Django, designed to streamline the process of scheduling appointments with professors. This intuitive platform empowers students to efficiently manage their academic interactions with faculty members. Here's a closer look at its key features:
 
 1. Professor Schedule Visibility:
