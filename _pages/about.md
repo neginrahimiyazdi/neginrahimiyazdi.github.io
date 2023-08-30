@@ -21,3 +21,4 @@ My reaserch interset is in the filed of machine learning, optimization, game the
 
 
 Here is my [CV](https://neginrahimiyazdi.github.io/assets/pdf/CV-Negin%20Rahimi.pdf){target="_blank"}.
+
