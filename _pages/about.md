@@ -19,4 +19,7 @@ social: true  # includes social icons at the bottom of the page
 I am currently in my final year as an undergraduate double majoring in Computer Science and Mathematics at [Amirkabir University of Technology](https://aut.ac.ir/en).
 My research interests lie in the fields of machine learning, optimization, game theory, and graph theory. 
 
+
+I also enjoy memorizing poems in my free time.
+
 For further details about my qualifications and experience, please refer to my  <a href="https://neginrahimiyazdi.github.io/assets/pdf/CV-Negin%20Rahimi.pdf" target="_blank">CV</a>.
