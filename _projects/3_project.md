@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: Parallel Matrix Multiply HTTP Server
+title: Parallel Matrix Multiply HTTP Server
+description: 
 img: assets/img/Screenshot from 2023-09-02 17-46-08.png
 importance: 3
 category: 
