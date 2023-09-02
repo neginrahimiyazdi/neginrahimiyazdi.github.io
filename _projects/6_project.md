@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 6
+title: Enhancing Breast Cancer Prediction using MLP
 description: a project with no image
 img:
 importance: 6
