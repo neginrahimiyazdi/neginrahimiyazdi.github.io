@@ -23,7 +23,6 @@ nav_order: 5
         <div class="row">
           <div class="col-sm-9">
             As a teacher assistant for over 300 students, I have collected more than 200 questions with solutions across six diverse course subjects.
-
           </div>
         </div>
       </li>
@@ -31,7 +30,6 @@ nav_order: 5
         <div class="row">
           <div class="col-sm-9">
             I developed six assignments to be completed throughout the semesters.
-
           </div>
         </div>
       </li>
@@ -58,18 +56,17 @@ nav_order: 5
   </div>
 </div>
 
+
+
 <!-- COMP 210 (Data Structures and Analysis) -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp210" class="card-title"><a href="https://www.cs.unc.edu/~kakiryan/teaching/summer-210.html">Data Structures and Analysis</a></h5>
-        <h6 class="card-subtitle font-italic">Head UTA (Summer '22)</h6>
+        <h5 id="comp210" class="card-title">Probability1</h5>
+        <h6 class="card-subtitle font-italic">Spring 2023</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          210 
-        </span>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
