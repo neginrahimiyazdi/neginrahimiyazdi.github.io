@@ -23,21 +23,23 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
- As an instructor responsible for over 300 students, I developed a comprehensive question bank comprising more than 200 questions across six diverse course subjects. Additionally, I meticulously crafted six rigorous assignments to be completed throughout the semester. I skillfully organized and conducted weekly 90-minute problem-solving sessions, significantly enriching students' understanding of the material. Moreover, I took the lead in orchestrating review sessions, aiding students in their exam preparation.
+            As a teacher assistant for over 300 students, I have collected more than 200 questions with solutions across six diverse course subjects.
+
           </div>
         </div>
       </li>
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            In Fall 2022, I corrected some of the students' exercises.
+            I developed six assignments to be completed throughout the semesters.
+
           </div>
         </div>
       </li>
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I created a resource that implements and explains 12 circuits from the course.
+           In Fall 2022 and Spring 2023, I conducted review sessions for the midterm exam, helping students prepare for their exams.
           </div>
           <div class="col-sm-3">
             <a href="https://github.com/jesse-wei/COMP311-circuits">COMP 311 circuits</a>
@@ -47,16 +49,7 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I have written 20+ in-use quiz and exam questions. In 23S, I wrote the entirety of Quiz 7 on the MIPS processor and control signals.
-          </div>
-          <div class="col-sm-3">
-          </div>
-        </div>
-      </li>
-      <li class="list-group-item">
-        <div class="row">
-          <div class="col-sm-9">
-            I have written and released explanations for 150+ practice assessment questions. In 23S, I held three assessment review sessions for the course, with an average of 40 students at each.
+                       In Fall 2022, I corrected some of the students' exercises.
           </div>
           <div class="col-sm-3">
           </div>
