@@ -25,5 +25,7 @@ The second section of the project involves classification tasks using decision t
 - Dividing the dataset into 20-80 ratios for training and testing.
 - Analyzing the results and using them for model validation and improvement.
 
+For more details and to explore the code repository, please visit [GitHub Repository](https://github.com/neginrahimiyazdi/Cross-validation-and-decision-tree).
+
 {% include figure.html path="assets/img/pic of rapidminer.png" title="example image" class="img-fluid rounded z-depth-1" %}
 {% include figure.html path="assets/img/pic rapidminer2.png" title="example image" class="img-fluid rounded z-depth-1" %}
