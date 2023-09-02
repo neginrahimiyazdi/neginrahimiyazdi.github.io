@@ -23,10 +23,7 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-           I created an extensive question bank consisting of over 200 questions covering six different course subjects. Additionally, I designed six challenging assignments for students to complete during the semester. I successfully facilitated weekly 90-minute problem-solving sessions to enhance students' comprehension. Furthermore, I led review sessions to assist students in preparing for their exams.
-          </div>
-          <div class="col-sm-3">
-            <a href="/projects/sapsim">SAPsim</a>&nbsp;(<a href="https://github.com/jesse-wei/SAPsim">GitHub</a>)
+ As an instructor responsible for over 300 students, I developed a comprehensive question bank comprising more than 200 questions across six diverse course subjects. Additionally, I meticulously crafted six rigorous assignments to be completed throughout the semester. I skillfully organized and conducted weekly 90-minute problem-solving sessions, significantly enriching students' understanding of the material. Moreover, I took the lead in orchestrating review sessions, aiding students in their exam preparation.
           </div>
         </div>
       </li>
