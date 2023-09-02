@@ -13,7 +13,7 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h6 class="card-subtitle font-italic">Head TA(Fall 2022, Spring 2023, Fall 2023)</h6>
+        <h6 class="card-subtitle font-italic">Head TA (Fall 2022, Spring 2023, Fall 2023)</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
       </div>
@@ -32,7 +32,6 @@ nav_order: 5
            I conducted weekly 90-minute problem-solving sessions.
           </div>
           <div class="col-sm-3">
-            <a href="https://github.com/jesse-wei/COMP311-circuits">COMP 311 circuits</a>
           </div>
         </div>
       </li>
@@ -49,7 +48,6 @@ nav_order: 5
            In Fall 2022 and Spring 2023, I conducted review sessions for the midterm exam, helping students prepare for their exams.
           </div>
           <div class="col-sm-3">
-            <a href="https://github.com/jesse-wei/COMP311-circuits">COMP 311 circuits</a>
           </div>
         </div>
       </li>
