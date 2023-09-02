@@ -2,7 +2,7 @@
 layout: page
 title: Multi-threaded Rust Grep Utility
 description: 
-img: 
+img: /assets/img/Screenshot from 2023-09-02 17-46-08.png
 importance: 2
 category: 
 giscus_comments: false
