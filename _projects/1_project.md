@@ -28,5 +28,7 @@ Meetwith enhances convenience by incorporating a barcode-based access system. Ea
 With Meetwith, academic scheduling becomes a seamless and efficient experience, benefiting both students and professors alike. Stay tuned for updates on my personal website, where I'll provide more details about this innovative project.
 
 For more details and to explore the code repository, please visit [GitHub Repository](https://github.com/neginrahimiyazdi/Django-based-Professor-Appointment-and-Scheduling-System).
+{% include figure.html path="assets/img/project-django2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+
 
 {% include figure.html path="assets/img/project-django.png" title="example image" class="img-fluid rounded z-depth-1" %}
