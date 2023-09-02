@@ -24,3 +24,6 @@ The second section of the project involves classification tasks using decision t
 - Implementing k-fold cross-validation to evaluate model performance.
 - Dividing the dataset into 20-80 ratios for training and testing.
 - Analyzing the results and using them for model validation and improvement.
+
+{% include figure.html path="assets/img/pic of rapidminer.png" title="example image" class="img-fluid rounded z-depth-1" %}
+{% include figure.html path="assets/img/pic rapidminer2.png" title="example image" class="img-fluid rounded z-depth-1" %}
