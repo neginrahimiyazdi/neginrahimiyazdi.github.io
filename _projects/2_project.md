@@ -5,7 +5,7 @@ description:
 img: 
 importance: 2
 category: 
-giscus_comments: true
+giscus_comments: false
 ---
 
 The Custom Grep Command Implementation project is designed to provide users with a versatile and efficient search tool inspired by the widely used grep command in the Linux operating system. This custom grep command offers the following essential features:
