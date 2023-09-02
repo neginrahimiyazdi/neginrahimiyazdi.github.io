@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
 nav_order: 5
 ---
@@ -13,8 +13,8 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp311" class="card-title">Computer Organization</h5>
-        <h6 class="card-subtitle font-italic">Graduate TA (F23), Head UTA (S23, F22)</h6>
+        <h5 id="comp311" class="card-title">Numerical Calculation</h5>
+        <h6 class="card-subtitle font-italic">Head TA(Fall 2022, Spring 2023, Fall 2023)</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
       </div>
@@ -23,7 +23,7 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            In 23S, I developed a SAP (Simple-As-Possible computer) program simulator, which enabled me to create and autograde a SAP programming assignment.
+           I created an extensive question bank consisting of over 200 questions covering six different course subjects. Additionally, I designed six challenging assignments for students to complete during the semester. I successfully facilitated weekly 90-minute problem-solving sessions to enhance students' comprehension. Furthermore, I led review sessions to assist students in preparing for their exams.
           </div>
           <div class="col-sm-3">
             <a href="/projects/sapsim">SAPsim</a>&nbsp;(<a href="https://github.com/jesse-wei/SAPsim">GitHub</a>)
