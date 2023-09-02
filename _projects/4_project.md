@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 4
+title: K-Cross Fold Validation and Decision Tree Analysis using RapidMiner
 description: another without an image
 img:
 importance: 3
