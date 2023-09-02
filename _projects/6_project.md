@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Enhancing Breast Cancer Prediction using MLP
-description: a project with no image
+description:
 img:
 importance: 6
 category: 
@@ -20,3 +20,5 @@ In this project, I applied machine learning techniques to classify breast cancer
 **Evaluation**: To assess the model's performance, I evaluated it on the test data using various metrics such as the confusion matrix, precision, recall, and F1-score. These metrics were computed using the scikit-learn library.
 
 **Baseline Comparison**: As a point of reference, I also trained an MLP model on the MNIST dataset to compare the performance of the breast cancer classification model against a commonly used benchmark.
+
+For more details and to explore the code repository, please visit [GitHub Repository](https://github.com/neginrahimiyazdi/Breast-Cancer-Prediction-using-MLP).
