@@ -3,7 +3,7 @@ layout: page
 title: K-Cross Fold Validation and Decision Tree Analysis using RapidMiner
 description: 
 img: /assets/img/pic of rapidminer.png
-importance: 5
+importance: 4
 category: 
 ---
 
