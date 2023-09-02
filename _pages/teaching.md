@@ -29,6 +29,16 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
+           I conducted weekly 90-minute problem-solving sessions.
+          </div>
+          <div class="col-sm-3">
+            <a href="https://github.com/jesse-wei/COMP311-circuits">COMP 311 circuits</a>
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
             I developed six assignments to be completed throughout the semesters.
           </div>
         </div>
@@ -58,13 +68,13 @@ nav_order: 5
 
 
 
-<!-- COMP 210 (Data Structures and Analysis) -->
+<!-- Probability -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
         <h5 id="comp210" class="card-title">Probability1</h5>
-        <h6 class="card-subtitle font-italic">Spring 2023</h6>
+        <h6 class="card-subtitle font-italic">TA(Spring 2023)</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
       </div>
@@ -73,7 +83,7 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I created ~10 in-use quiz questions.
+            I conducted four problem-solving sessions.
           </div>
           <div class="col-sm-3">
           </div>
@@ -82,10 +92,14 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I held 5 quiz review sessions.
+            I developed four assignments to be completed throughout the semesters.
           </div>
-          <div class="col-sm-3">
-            <a href="https://docs.google.com/presentation/d/12e1sxpIHf1mICBM6xSjnnCluqbAZQcE1cxS9P-yykdk/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Slides</a> (recordings included)
+        </div>
+      </li>
+    <li class="list-group-item">
+      <div class="row">
+        <div class="col-sm-9">
+           I corrected the students' exercises.
           </div>
         </div>
       </li>
@@ -93,13 +107,13 @@ nav_order: 5
   </div>
 </div>
 
-<!-- COMP 110 (Introduction to Programming and Data Science) -->
+<!-- Linear number algebra -->
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
         <h5 id="comp110" class="card-title"><a href="https://22s.comp110.com">Introduction to Programming and Data Science</a></h5>
-        <h6 class="card-subtitle font-italic">UTA (S22, F21, S21)</h6>
+        <h6 class="card-subtitle font-italic">TA (Fall 2022)</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
@@ -111,7 +125,7 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I created a Git workshop for the COMP 110 hackathon Hack110.
+              I corrected course slides
           </div>
           <div class="col-sm-3">
             <a href="https://docs.google.com/presentation/d/1EHSeRvvkmLQSM9iJL0GyXE-p_i4bnn7eMuCr-YWPQ_A/">Slides</a>
