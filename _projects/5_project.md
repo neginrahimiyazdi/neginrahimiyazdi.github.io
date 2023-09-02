@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Comparative Analysis of Classification Models
+description: 
 img: assets/img/1.jpg
 importance: 5
 category: 
@@ -28,4 +28,5 @@ This project focuses on comparing the performance of three popular machine learn
 **Hyperparameter Tuning**:
    - Hyperparameter tuning is performed using sklearn's capabilities to optimize each model's performance.
    - Results from the tuning process are reported and analyzed.
-
+     
+For more details and to explore the code repository, please visit [GitHub Repository](https://github.com/neginrahimiyazdi/Comparative-Analysis-of-Classification-Models).
