@@ -13,7 +13,6 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp311" class="card-title">Numerical Calculation</h5>
         <h6 class="card-subtitle font-italic">Head TA(Fall 2022, Spring 2023, Fall 2023)</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
