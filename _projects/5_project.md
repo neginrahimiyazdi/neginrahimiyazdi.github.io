@@ -2,7 +2,7 @@
 layout: page
 title: Comparative Analysis of Classification Models
 description: 
-img: assets/img/1.jpg
+img: assets/img/Screenshot from 2023-09-02 20-18-26.png
 importance: 5
 category: 
 ---
