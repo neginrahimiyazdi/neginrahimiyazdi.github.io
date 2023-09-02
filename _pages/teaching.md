@@ -8,7 +8,6 @@ nav_order: 5
 ---
 
 
-<h3 style="color: #4b9cd3;" id="unc"><a href="https://unc.edu">UNC</a></h3>
 <!-- COMP 311 (Computer Organization) -->
 <div class="card mt-3">
   <div class="p-3">
@@ -18,9 +17,6 @@ nav_order: 5
         <h6 class="card-subtitle font-italic">Graduate TA (F23), Head UTA (S23, F22)</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          311
-        </span>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
