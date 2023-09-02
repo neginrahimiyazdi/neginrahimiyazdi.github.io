@@ -30,7 +30,7 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I created a new part of the ALU implementation assignment, in which students implement ALU flag detection.
+            In Fall 2022, I corrected some of the students' exercises.
           </div>
         </div>
       </li>
