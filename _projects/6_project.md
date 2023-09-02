@@ -2,7 +2,7 @@
 layout: page
 title: Enhancing Breast Cancer Prediction using MLP
 description:
-img:
+img: assets/img/Screenshot from 2023-09-02 21-21-59.png
 importance: 6
 category: 
 ---
