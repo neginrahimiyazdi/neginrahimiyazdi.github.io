@@ -111,7 +111,7 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp110" class="card-title">Linear number algebra</a></h5>
+        <h5 id="comp110" class="card-title">Linear number algebra</h5>
         <h6 class="card-subtitle font-italic">TA (Fall 2022)</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
