@@ -115,9 +115,6 @@ nav_order: 5
         <h6 class="card-subtitle font-italic">TA (Fall 2022)</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          110
-        </span>
       </div>
     </div>
     <ul class="card-text font-weight-light list-group list-group-flush">
