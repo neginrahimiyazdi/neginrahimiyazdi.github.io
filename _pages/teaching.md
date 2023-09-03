@@ -111,7 +111,7 @@ nav_order: 5
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="comp110" class="card-title"><a href="https://22s.comp110.com">Introduction to Programming and Data Science</a></h5>
+        <h5 id="comp110" class="card-title">Linear number algebra</a></h5>
         <h6 class="card-subtitle font-italic">TA (Fall 2022)</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
@@ -127,9 +127,7 @@ nav_order: 5
               I corrected the course slides.
           </div>
           <div class="col-sm-3">
-            <a href="https://docs.google.com/presentation/d/1EHSeRvvkmLQSM9iJL0GyXE-p_i4bnn7eMuCr-YWPQ_A/">Slides</a>
             <br>
-            <a href="https://github.com/comp110git/git-workshop">GitHub</a>
           </div>
         </div>
       </li>
