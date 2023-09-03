@@ -73,7 +73,7 @@ nav_order: 5
     <div class="row">
       <div class="col-sm-10">
         <h5 id="comp210" class="card-title">Probability1</h5>
-        <h6 class="card-subtitle font-italic">TA(Spring 2023)</h6>
+        <h6 class="card-subtitle font-italic">TA (Spring 2023)</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
       </div>
@@ -137,11 +137,6 @@ nav_order: 5
             I developed three assignments to be completed throughout the semesters.
           </div>
           <div class="col-sm-3">
-            <a href="https://22s.comp110.com/explore/side-quest/sq01-pong.html">Pong</a>
-            <br>
-            <a href="https://22s.comp110.com/explore/side-quest/sq00-ttt.html">Tic-Tac-Toe</a>
-            <br>
-            <a href="https://22s.comp110.com/explore/pandas/exds01-cleaning.html">Data cleaning</a>
           </div>
         </div>
       </li>
