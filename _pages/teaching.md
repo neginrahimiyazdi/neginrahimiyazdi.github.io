@@ -55,7 +55,7 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-                       In Fall 2022, I corrected some of the students' exercises.
+              In Fall 2022, I corrected some of the students' exercises.
           </div>
           <div class="col-sm-3">
           </div>
