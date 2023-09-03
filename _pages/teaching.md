@@ -131,15 +131,6 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            I conducted four problem-solving sessions.
-          </div>
-          <div class="col-sm-3">
-          </div>
-        </div>
-      </li>
-      <li class="list-group-item">
-        <div class="row">
-          <div class="col-sm-9">
             I developed four assignments to be completed throughout the semesters.
           </div>
         </div>
