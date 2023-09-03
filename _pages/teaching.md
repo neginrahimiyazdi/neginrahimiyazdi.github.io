@@ -106,6 +106,56 @@ nav_order: 5
   </div>
 </div>
 
+
+<!-- foundation Probability -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp210" class="card-title">Foundation of Probability</h5>
+        <h6 class="card-subtitle font-italic">TA (Spring 2023)</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+          I conducted weekly 90-minute problem-solving sessions.
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            I conducted four problem-solving sessions.
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            I developed four assignments to be completed throughout the semesters.
+          </div>
+        </div>
+      </li>
+    <li class="list-group-item">
+      <div class="row">
+        <div class="col-sm-9">
+           I corrected the students' exercises.
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
 <!-- Linear number algebra -->
 <div class="card mt-3">
   <div class="p-3">
@@ -137,9 +187,70 @@ nav_order: 5
           </div>
         </div>
       </li>
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+             I corrected the students' exercises.
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
     </ul>
   </div>
 </div>
+
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp210" class="card-title">Data Structures & Algorithms</h5>
+        <h6 class="card-subtitle font-italic">TA (Spring 2023)</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            I corrected the students' exercises.
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="comp210" class="card-title">Design & Analysis of Algorithms</h5>
+        <h6 class="card-subtitle font-italic">TA (Spring 2023)</h6>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            I corrected the students' exercises.
+          </div>
+          <div class="col-sm-3">
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
 
 <br>
 
