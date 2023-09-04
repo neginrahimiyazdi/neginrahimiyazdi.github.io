@@ -14,7 +14,7 @@ nav_order: 5
     <div class="row">
       <div class="col-sm-10">
          <h5 id="comp210" class="card-title">Numerical Calculation</h5>
-        <h6 class="card-subtitle font-italic">Head TA (Fall 2022, Spring 2022, Fall 2023, Spring 2023)</h6>
+        <h6 class="card-subtitle font-italic">Head TA (Spring 2022, Fall 2022, Spring 2023)</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
       </div>
@@ -46,7 +46,7 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-           In Fall 2022 and Spring 2023, I conducted review sessions for the midterm exam, helping students prepare for their exams.
+           In Spring 2022 and Fall 2022, I conducted review sessions for the midterm exam, helping students prepare for their exams.
           </div>
           <div class="col-sm-3">
           </div>
@@ -55,7 +55,7 @@ nav_order: 5
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-              In Fall 2022, I corrected some of the students' exercises.
+              In Spring 2022, I corrected some of the students' exercises.
           </div>
           <div class="col-sm-3">
           </div>
@@ -198,7 +198,7 @@ nav_order: 5
     <div class="row">
       <div class="col-sm-10">
         <h5 id="comp110" class="card-title">Foundation of Numerical Analysis</h5>
-        <h6 class="card-subtitle font-italic">TA (Fall 2021, Spring 2021)</h6>
+        <h6 class="card-subtitle font-italic">TA (Fall 2021, Spring 2022)</h6>
       </div>
       <div class="col-sm-2 text-sm-right">
       </div>
